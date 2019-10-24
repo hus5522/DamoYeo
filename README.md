@@ -20,7 +20,36 @@
 
 ## 모듈 흐름도
 
+* 장소 추천 모듈 흐름도
+
 ![FLow2](./Image/Flow2.png)
+
+* 건물 상세 정보 모듈 흐름도
+
+![Flow3](./Image/Flow3.png)
+
+
+## 장소 추천 결과 화면 및 API에서 얻어온 JSON 정보 Parsing 예시
+
+* 장소 추천 결과 화면
+
+![Result1](./Image/Result1.png)
+
+* 구글 Place API에서 얻어온 JSON 정보를 알맞게 Parsing한 결과
+
+![Result2](./Image/Result2.png)
+
+
+## 건물 상세 정보 결과 화면 및 API에서 얻어온 JSON 정보 Parsing 예시
+
+* 건물 상세 정보 결과 화면
+
+![Result4](./Image/Result4.png)
+
+* 네이버 지역검색 API에서 얻어온 JSON 정보를 알맞게 Parsing한 결과
+
+![Result3](./Image/Result3.png)
+
 
 
 ## 어플 '다모여'의 데이터 흐름도
