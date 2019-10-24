@@ -20,4 +20,4 @@
 
 ## 어플 '다모여'의 데이터 흐름도
 
-![Flow](./Image/Flow.png)
+![Flow](./Image/Flow.PNG)
